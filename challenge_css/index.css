@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.content-cards{
+    display: flex;
+    width: 55%;
+    overflow: hidden;
+    margin-top: 3%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.card{
+    margin-left: 30px;
+    position: relative;
+    left: 1%;
+}
+.content-header{
+    width: 100%;
+}
+.content-header img{
+    width: 300px;
+}
+.date{
+    position: relative;
+    top: 60px;
+    left: 30px;
+    background-color: white;
+    width: 40px;
+}
+
+.button-rigth{
+    position: absolute;
+    position: absolute;
+    right: 330px;
+    top: 230px;
+}
+.button-left{
+    position: absolute;
+    position: absolute;
+    top: 230px;
+    left: 330px;
+}
